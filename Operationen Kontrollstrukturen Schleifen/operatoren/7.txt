@@ -1,0 +1,10 @@
+int x = 0
+bool b = false
+!b (true)
+&& (and)
+++x > 1 (true)
+|| (or)
+x << (0000 => 0000) (man kann nichts verschieben)
+> 2 (false)
+true && true = true
+true || false = true
