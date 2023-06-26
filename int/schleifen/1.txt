@@ -1,0 +1,7 @@
+a) Wert von k: 10
+b) Wert von k: 20
+c) Wert von k: 0
+d) Wert von k: 14
+e) Wert von k: 7
+f) Wert von k: 16
+g) Wert von k: 7
