@@ -7,10 +7,8 @@ def istTeilbar(zahl, teiler):
         return False
 
 zahl = int(input("Bitte geben Sie eine Ganzzahl ein: "))
-teiler = []
 
-for num in range(1, 1000000000000000000000000000):
+for num in range(1, zahl):
     if istTeilbar(zahl, num):
-        teiler.append(num)
         print(f"{zahl} ist durch {num} Teilbar")
 
